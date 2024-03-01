@@ -1,0 +1,7 @@
+.DS_Store
+jgraph
+test.json
+*.ps
+*.jgr
+*.pdf
+jgraph*
